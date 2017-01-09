@@ -1,2 +1,2 @@
 # scriptEnv
-Utility function to know which npm script was runned
+Utility function to know which npm script was called
